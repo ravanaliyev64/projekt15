@@ -122,8 +122,12 @@
 }
 
 @media(max-width:600px){
+    .section1{
+        
+    }
     .container{
         flex-direction: column-reverse;
+        
     }
     .bigImg{
     height: 350px;
@@ -147,7 +151,7 @@
     border-radius: 100%;
     border: 30px solid #facec2;
     position: absolute;
-    top: 90px;
+    top: 0px;
     left: -10px;
 }
 .circle2{
@@ -156,7 +160,7 @@
     border-radius: 100%;
     background-color: #facec2;
     position: absolute;
-    bottom:  30px;
+    bottom:  -50px;
     right: 50px;
 }
 }
