@@ -148,21 +148,21 @@
     top: 100px;
 }
 .circle{
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 100px;
     border-radius: 100%;
-    border: 30px solid #facec2;
+    border: 20px solid #facec2;
     position: absolute;
     top: 0px;
     left: -10px;
 }
 .circle2{
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 100px;
     border-radius: 100%;
     background-color: #facec2;
     position: absolute;
-    bottom:  -300px;
+    bottom:  -250px;
     right: 50px;
 }
 }
